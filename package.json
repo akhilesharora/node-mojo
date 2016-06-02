@@ -1,0 +1,24 @@
+{
+  "name": "node-mojo",
+  "version": "1.0",
+  "description": "Mojo Assignment",
+  "keywords": [
+    "wit",
+    "wit.ai",
+    "bot",
+    "botengine",
+    "bots",
+    "nlp",
+    "automation"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/akhilesharora/node-mojo",
+  "author": "Akhilesh Arora<akhildawra@gmail.com>",
+  "dependencies": {
+    "node-fetch": "^1.5.1",
+    "node-uuid": "^1.4.7"
+  }
+}
